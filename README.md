@@ -26,3 +26,4 @@ Ce cours présente les concepts essentiels des systèmes distribués et leur mis
 ## Ressources et Suivi
 
 - [Roadmap du module](roadmap.md)
+- [Modalités des évaluations](evaluations.md)
