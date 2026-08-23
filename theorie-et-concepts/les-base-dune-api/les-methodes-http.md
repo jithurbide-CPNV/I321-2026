@@ -76,9 +76,7 @@ Les méthodes HTTP définissent un langage standardisé entre client et serveur.
 
 Une API REST bien conçue respecte ce principe :
 
-{% hint style="warning" %}
 **L’URL décrit une ressource, et c’est la méthode HTTP qui exprime l’opération**
-{% endhint %}
 
 ## Tableau récapitulatif des méthodes HTTP
 
