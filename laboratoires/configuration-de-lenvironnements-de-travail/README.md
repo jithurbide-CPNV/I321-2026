@@ -36,8 +36,6 @@ Dans le fichier partagé sur teams annoncer votre nom d'utilisateur Github.
 
 {% embed url="https://eduvaud.sharepoint.com/:x:/r/sites/CPNV_23-27_SI-C_a_Teams-I321-Programmerdessystmesdistribubs/Documents%20partages/I321%20-%20Programmer%20des%20syst%C3%A8mes%20distribub%C3%A9s/Book.xlsx?d=w2eb225ae3960417dbf39d34f7bc46060&csf=1&web=1&e=P1GXIX" %}
 
-{% hint style="warning" %}
 Associer votre adresse email à votre compte github\
 \
 [https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/adding-an-email-address-to-your-github-account](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/adding-an-email-address-to-your-github-account)
-{% endhint %}

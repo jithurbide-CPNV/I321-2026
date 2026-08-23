@@ -10,7 +10,6 @@ Ce contenu est un complément à la page précédente présentant [les différen
 
 ## La structure du projet
 
-{% code fullWidth="true" %}
 ```
 .env                 // Fichier pour stocker les variables d'environnement (ex : mots de passe, port)
 .gitignore           // Liste des fichiers/dossiers à ne pas envoyer sur Git (ex : node_modules, .env)
@@ -32,7 +31,6 @@ routes/              // Dossier des routes (gestion des endpoints)
     router.js        // Fichier principal qui rassemble toutes les routes
     products.js      // Routes spécifiques aux produits (GET, POST, PUT, DELETE)
 ```
-{% endcode %}
 
 ### Le fichier .env
 
@@ -97,7 +95,6 @@ coverage/
 
 Express exploite un fichier "server.js" pour configurer rapidement un serveur offrant l'exposition d'un port d'écoute. On y voit la configuration du port d'écoute ainsi que l'initialisation de l'écoute.
 
-{% code fullWidth="true" %}
 ```javascript
 require("dotenv").config();                       // Charge les variables d'environnement depuis le fichier .env
 
@@ -112,7 +109,6 @@ app.listen(PORT, () => {                          // Démarre le serveur sur le 
     }  
 });
 ```
-{% endcode %}
 
 ### Le fichier app.js
 
@@ -122,7 +118,6 @@ On y positionnera les différentes dépendances telles qu'express, tout comme l'
 
 Il déclare également le point d'entrée de l'API pour que les requêtes puissent être redirigées vers le routage par ressource.
 
-{% code fullWidth="true" %}
 ```javascript
 const express = require("express");                     // Importe Express pour créer le serveur
 const morgan = require('morgan');                       // Importe la libraire de log
@@ -162,5 +157,4 @@ app.use((err, req, res, next) => {                    //Gestion de l'erreur 500 
 module.exports = app;                                 // Exporte l'application pour pouvoir l'utiliser dans server.js
 
 ```
-{% endcode %}
 

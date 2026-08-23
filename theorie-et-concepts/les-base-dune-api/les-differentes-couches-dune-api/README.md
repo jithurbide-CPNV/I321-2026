@@ -8,9 +8,7 @@ Pour mieux aborder la programmation par couche, voici un document présentant le
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Schéma vulgarisant les différents couches</p></figcaption></figure>
 
-{% hint style="warning" %}
 Pour un projet d'API (sans interface graphique), la vue correspondant au dialogue possible avec l'API, notamment les retours en  JSON qui sont produits.
-{% endhint %}
 
 ### Couche de présentation (Présentation layer)
 
@@ -18,9 +16,7 @@ La couche de présentation, également appelée « point de terminaison API », 
 
 La couche de présentation peut prendre différentes formes, en fonction des exigences de l'API. Il peut s'agir d'une API REST qui utilise des requêtes HTTP pour échanger des données ou d'une API SOAP qui utilise des messages XML pour communiquer. Quelle que soit l'implémentation spécifique, la couche de présentation est la partie publique de l'API et constitue le premier point de contact pour les développeurs.
 
-{% hint style="warning" %}
 Pour notre projet, nous opterons pour une approche Restfull (API qui suit les préconisations REST)
-{% endhint %}
 
 ### Couche métier (Business layer)
 
@@ -28,9 +24,7 @@ La couche logique métier, également appelée « middleware API », est la couc
 
 La couche logique métier est celle où réside la fonctionnalité principale de l'API. Elle peut effectuer la validation des données, l'authentification et l'autorisation, les requêtes de base de données ou d'autres opérations complexes. Cette couche est généralement développée par le fournisseur de services et n'est pas directement accessible aux développeurs.
 
-{% hint style="warning" %}
 Pour notre projet, nous réaliserons toutes les couches, y compris la couche métier.
-{% endhint %}
 
 ### Couche de données (Data layer)
 
