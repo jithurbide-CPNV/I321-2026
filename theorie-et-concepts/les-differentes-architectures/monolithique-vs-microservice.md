@@ -10,8 +10,6 @@ La modification d'une architecture monolithique est contraignante et prend du te
 
 Chaque service joue un rôle unique et communique avec les autres services au moyen d'une interface bien définie. Comme ils s'exécutent indépendamment, vous pouvez mettre à jour, modifier, déployer ou mettre à l'échelle chaque service selon vos besoins.
 
-<a id="ams-what-isc2-pattern-data"></a>
-
 ### Principales différences : monolithique versus microservices
 
 Les applications monolithiques se composent généralement d'une interface utilisateur côté client, d'une base de données et d'une application côté serveur. Les développeurs construisent tous ces modules sur une base de code unique.
@@ -19,5 +17,3 @@ Les applications monolithiques se composent généralement d'une interface utili
 D'autre part, dans une architecture distribuée, chaque microservice fonctionne pour exécuter une fonctionnalité ou une logique métier unique. Au lieu d'échanger des données au sein de la même base de code, les microservices communiquent via une API.
 
 ![Comparaison entre une architecture monolithique et des microservices](../../assets/images/image-20.png)
-
-
