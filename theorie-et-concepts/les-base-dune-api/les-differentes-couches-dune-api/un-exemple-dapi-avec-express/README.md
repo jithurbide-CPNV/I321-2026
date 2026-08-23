@@ -81,7 +81,7 @@ Liste toutes les dépendances et les versions à installer (via le gestionnaire 
 
 Offre un mécanisme d'exclusion des fichiers et répertoires que nous ne désirons pas intégrer dans notre code source. Pour un projet avec node, le répertoire "node\_modules" en est un bon exemple. Inutile d'intégrer des dépendances que npm sera tout à fait capable d'aller chercher, grâce au fichier "package.json" décrivant chacunes des ressources.
 
-{% embed url="https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore" %}
+[Modèle `.gitignore` pour JetBrains](https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore)
 
 ```gitignore
 # Custom for the project   //exemple d'exclusions spécifiques au projet
