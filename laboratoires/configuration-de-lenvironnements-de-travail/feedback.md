@@ -16,13 +16,13 @@ La "quasi" totalité des informations présentes dans votre document provient de
 
 Une capture d'écran est la bonne option pour démontrer le résultat d'une interface graphique ou tout autre élément qui ne peut pas être démontré à l'aide de ligne de commande ou de code.
 
-{% hint style="warning" %}
-Pour le reste tout doit être du code, du texte réutilisable par "copy/paste".
-{% endhint %}
+> **Attention**
+>
+> Pour le reste tout doit être du code, du texte réutilisable par "copy/paste".
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Exemple de mention de commande, malheureusement il s'agit d'une capture d'écran. Imposslbe de la réutiliser.</p></figcaption></figure>
 
-{% embed url="https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks" %}
+[Guide GitHub sur les blocs de code](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
 
 ***
 
@@ -40,9 +40,9 @@ Pour des raisons de confidentialités tout comme pour éviter de contraindre un 
 
 . Il ne s'agit bien d'une carte "joker" justiifant le fait de ne pas avoir pu réaliser le projet.
 
-{% hint style="warning" %}
-Soignez vos issues !
-{% endhint %}
+> **Attention**
+>
+> Soignez vos issues !
 
 Une issue de qualité :
 
@@ -56,4 +56,4 @@ Ecrire une issue prend du temps. Il ne s'agit pas d'une "poubelle" à problème 
 
 Voici un échange entre développeur sur la pertinence d'écrire soigneusement une issue. Inspirez-vous en !
 
-{% embed url="https://github.com/orgs/community/discussions/147722" %}
+[Discussion GitHub sur la rédaction des issues](https://github.com/orgs/community/discussions/147722)
