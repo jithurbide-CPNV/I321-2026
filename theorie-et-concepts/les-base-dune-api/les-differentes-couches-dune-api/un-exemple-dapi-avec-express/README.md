@@ -6,7 +6,7 @@ Le framework Express facilite de nombreux aspects du développement, mais comme 
 
 Cette page a pour objectif de démontrer le contenu de chaque fichier et ainsi avoir une meilleure compréhension du framework.
 
-Ce contenu est un complément à la page précédente présentant [les différentes couches d'une API](../../../les-differentes-architectures/).
+Ce contenu est un complément à la page précédente présentant [les différentes couches d'une API](../).
 
 ## La structure du projet
 
@@ -157,4 +157,3 @@ app.use((err, req, res, next) => {                    //Gestion de l'erreur 500 
 module.exports = app;                                 // Exporte l'application pour pouvoir l'utiliser dans server.js
 
 ```
-

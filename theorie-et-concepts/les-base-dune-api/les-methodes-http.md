@@ -6,7 +6,7 @@ Source : [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Metho
 
 Dans le cadre du développement d’API REST, les **méthodes HTTP** jouent un rôle essentiel. Elles permettent de décrire **l’intention d’une requête** en utilisant un verbe standardisé (comme GET ou POST) appliqué à une ressource identifiée par une URL (la _route_).
 
-<mark style="color:orange;">Un principe fondamental de REST est que</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**l’action n’est pas incluse dans le chemin de l’URL**</mark>. Autrement dit, au lieu d’avoir une route comme `/createUser`, on utilisera simplement `/users`, et c’est le verbe HTTP (POST, GET, etc.) qui exprimera l’opération attendue.
+**Un principe fondamental de REST est que l’action n’est pas incluse dans le chemin de l’URL**. Autrement dit, au lieu d’avoir une route comme `/createUser`, on utilisera simplement `/users`, et c’est le verbe HTTP (POST, GET, etc.) qui exprimera l’opération attendue.
 
 \
 Exemple :
@@ -76,7 +76,9 @@ Les méthodes HTTP définissent un langage standardisé entre client et serveur.
 
 Une API REST bien conçue respecte ce principe :
 
-**L’URL décrit une ressource, et c’est la méthode HTTP qui exprime l’opération**
+> **Attention**
+>
+> **L’URL décrit une ressource, et c’est la méthode HTTP qui exprime l’opération**
 
 ## Tableau récapitulatif des méthodes HTTP
 

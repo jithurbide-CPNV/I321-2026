@@ -2,12 +2,12 @@
 
 ### **Introduction – Vers les architectures distribuées**
 
-Pendant longtemps, les applications étaient <mark style="color:orange;">**monolithiques**</mark> : tout le code, la logique métier, et les données vivaient dans un seul bloc déployé sur un seul serveur. Cette approche fonctionnait bien dans un contexte où :
+Pendant longtemps, les applications étaient **monolithiques** : tout le code, la logique métier, et les données vivaient dans un seul bloc déployé sur un seul serveur. Cette approche fonctionnait bien dans un contexte où :
 
-* la <mark style="color:$warning;">charge</mark> utilisateur était limitée,
-* le <mark style="color:$warning;">matériel</mark> était coûteux et peu évolutif,
-* la connectivité <mark style="color:$warning;">réseau</mark> était lente ou instable,
-* la <mark style="color:$warning;">virtualisation et le cloud</mark> n’existaient pas.
+* la **charge** utilisateur était limitée,
+* le **matériel** était coûteux et peu évolutif,
+* la connectivité **réseau** était lente ou instable,
+* la **virtualisation et le cloud** n’existaient pas.
 
 Mais avec l’augmentation du volume de données, la nécessité de servir des milliers (voire des millions) d’utilisateurs simultanément, et la mondialisation des services, ce modèle a montré ses limites : impossibilité de monter en charge efficacement, difficulté de maintenance et dépendances fortes entre composants. **C’est là qu’est née l’architecture distribuée** : diviser une application en plusieurs composants coopérants, répartis sur plusieurs machines, pour gagner en performance, en disponibilité et en résilience.
 
@@ -17,9 +17,9 @@ Dans un système centralisé, toutes les données et ressources informatiques so
 
 Un système distribué, en revanche, répartit les données et les ressources sur plusieurs serveurs ou emplacements, souvent répartis sur différents sites physiques. Cette configuration offre une meilleure évolutivité et une plus grande fiabilité, car le système peut continuer à fonctionner même en cas de défaillance d'un composant. Cependant, en raison de leurs nombreux points d'interaction, les systèmes distribués peuvent être plus difficiles à sécuriser et à administrer.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+![Comparaison entre un système centralisé et un système distribué](../assets/images/image-21.png)
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+![Exemple d’architecture d’un système distribué](../assets/images/image-22.png)
 
 ### **Première génération – CORBA et les pionniers du distribué**
 

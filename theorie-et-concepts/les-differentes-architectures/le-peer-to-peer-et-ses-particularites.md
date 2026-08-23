@@ -4,7 +4,7 @@ Source : [GeekForGeek](https://www.geeksforgeeks.org/system-design/distributed-s
 
 
 
-Les réseaux peer-to-peer sont des réseaux décentralisés qui permettent une communication directe entre les nœuds sans serveur central.&#x20;
+Les réseaux peer-to-peer sont des réseaux décentralisés qui permettent une communication directe entre les nœuds sans serveur central.
 
 Dans un réseau P2P, chaque participant (ou pair) peut agir à la fois comme client et serveur, favorisant ainsi le partage des ressources et la collaboration.
 
@@ -18,7 +18,6 @@ Les caractéristiques des réseaux peer-to-peer sont les suivantes :
 | Nature dynamique      | Les pairs peuvent rejoindre ou quitter le réseau librement, ce qui rend l'architecture flexible et adaptable.                                                    |
 | Structures incitative | De nombreux réseaux P2P utilisent des incitations pour encourager la participation, telles que les cryptomonnaies dans les réseaux blockchain.                   |
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+![Fonctionnement d’un réseau peer-to-peer](../../assets/images/image.png)
 
 Source : [System design school](https://app.gitbook.com/u/gLwkRcQhqmTsLWK78RevYt7Dc1e2)
-

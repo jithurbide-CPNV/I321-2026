@@ -34,8 +34,10 @@ Inviter votre enseignant, avec son adresse e-mail de l'école, à accéder à vo
 
 Dans le fichier partagé sur Teams, annoncer votre nom d'utilisateur GitHub.
 
-...
+[Accéder au fichier de suivi partagé sur Teams](https://eduvaud.sharepoint.com/:x:/r/sites/CPNV_23-27_SI-C_a_Teams-I321-Programmerdessystmesdistribubs/Documents%20partages/I321%20-%20Programmer%20des%20syst%C3%A8mes%20distribub%C3%A9s/Book.xlsx?d=w2eb225ae3960417dbf39d34f7bc46060&csf=1&web=1&e=P1GXIX)
 
-Associer votre adresse e-mail à votre compte GitHub.
-
-[Ajouter une adresse e-mail à un compte GitHub](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/adding-an-email-address-to-your-github-account)
+> **Attention**
+>
+> Associer votre adresse e-mail à votre compte GitHub.
+>
+> [Ajouter une adresse e-mail à un compte GitHub](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/adding-an-email-address-to-your-github-account)

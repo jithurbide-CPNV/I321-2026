@@ -8,7 +8,7 @@
 
 Exemple:
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+![Exemple d’architecture monolithique](../../assets/images/image-19.png)
 
 * **WordPress** (version classique auto-hébergée).
 * **Pourquoi** : Le cœur, les extensions et l’interface sont déployés en un seul bloc PHP/MySQL ; toute mise à jour touche l’ensemble.
@@ -21,7 +21,7 @@ Exemple:
 
 Exemple:
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+![Exemple d’architecture microservices](../../assets/images/image-17.png)
 
 * **Netflix**.
 * **Pourquoi** : Chaque fonctionnalité (catalogue, recommandations, lecture vidéo, facturation…) est un microservice indépendant, souvent déployé dans le cloud, orchestré par Kubernetes.
@@ -34,7 +34,7 @@ Exemple:
 
 Exemple:
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+![Exemple d’architecture client-serveur](../../assets/images/image-18.png)
 
 * **Gmail (version web)**.
 * **Pourquoi** : Le navigateur (client) envoie des requêtes au serveur Google, qui traite, stocke et renvoie les emails.
@@ -49,7 +49,7 @@ Exemple:
 
 Exemple:
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+![Exemple d’architecture peer-to-peer](../../assets/images/image-16.png)
 
 
 
@@ -63,4 +63,3 @@ Exemple:
 * [https://www.strategyzer.com/library/netflix-is-winding-down-its-dvd-by-mail-service-for-good](https://www.strategyzer.com/library/netflix-is-winding-down-its-dvd-by-mail-service-for-good)
 * [https://features.getmailbird.com/read-receipts/gmail-com](https://features.getmailbird.com/read-receipts/gmail-com)
 * [https://aws.amazon.com/compare/the-difference-between-monolithic-and-microservices-architecture/](https://aws.amazon.com/compare/the-difference-between-monolithic-and-microservices-architecture/)
-
