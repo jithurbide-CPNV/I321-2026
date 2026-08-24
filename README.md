@@ -22,6 +22,8 @@ Ce cours présente les concepts essentiels des systèmes distribués et leur mis
 
 - [Configuration de l’environnement de travail](laboratoires/configuration-de-lenvironnements-de-travail/README.md)
   - [Feedback](laboratoires/configuration-de-lenvironnements-de-travail/feedback.md)
+- Projet Foodtruck
+  - [Étape 00 – Squelette de notre API](laboratoires/projet-foodtruck/etape-00-squelette-de-notre-api/README.md)
 
 ## Ressources et Suivi
 
