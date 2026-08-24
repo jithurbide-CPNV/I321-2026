@@ -128,3 +128,7 @@ Keep-Alive: timeout=5
 ```
 
 [Code de statut HTTP 404](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/404)
+
+---
+
+[← Retour au chapitre principal](../../../README.md#laboratoires) · [⌂ Menu principal](../../../README.md)

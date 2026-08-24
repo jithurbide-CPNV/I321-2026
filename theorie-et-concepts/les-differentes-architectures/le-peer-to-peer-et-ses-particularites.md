@@ -21,3 +21,7 @@ Les caractéristiques des réseaux peer-to-peer sont les suivantes :
 ![Fonctionnement d’un réseau peer-to-peer](../../assets/images/image.png)
 
 Source : [System design school](https://app.gitbook.com/u/gLwkRcQhqmTsLWK78RevYt7Dc1e2)
+
+---
+
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../README.md)

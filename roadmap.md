@@ -16,3 +16,7 @@ description: Le déroulement du module, semaine après semaine, est présenté c
 | **SEM 07** — 05.10.2026 | Évaluation I – Théorique | Révision du code |
 | **Vacances** — du 12.10.2026 au 25.10.2026 | Vacances | Vacances |
 | **SEM 08** — 26.10.2026 | Révision du code | **⚠️ Évaluation II – pratique (mardi)** |
+
+---
+
+[← Retour au chapitre principal](README.md#ressources-et-suivi) · [⌂ Menu principal](README.md)

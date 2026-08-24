@@ -106,3 +106,7 @@ exports.delete = async (req, res, next) => {
 };
 
 ```
+
+---
+
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../../../README.md)

@@ -61,3 +61,7 @@ Middleware : logiciel qui facilite la communication et la gestion des données e
 Sources:
 
 * [https://www.geeksforgeeks.org/computer-networks/what-is-a-distributed-system/](https://www.geeksforgeeks.org/computer-networks/what-is-a-distributed-system/)
+
+---
+
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../README.md)

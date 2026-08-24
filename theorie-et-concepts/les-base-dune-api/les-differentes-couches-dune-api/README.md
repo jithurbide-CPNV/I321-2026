@@ -43,3 +43,7 @@ La couche de stockage des données est le composant le plus critique de l'API, c
 ## Conclusion
 
 En conclusion, les API se composent de trois couches : la couche de présentation, la couche de logique métier et la couche de stockage des données. Chaque couche joue un rôle crucial dans la fonctionnalité et les performances de l'API. Il est essentiel pour les développeurs qui souhaitent créer des API robustes, fiables et évolutives de comprendre les trois couches d'une API.
+
+---
+
+[← Retour au chapitre principal](../README.md) · [⌂ Menu principal](../../../README.md)

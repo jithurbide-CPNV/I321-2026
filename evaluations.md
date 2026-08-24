@@ -62,3 +62,7 @@ _Pondération et calcul de la note_
 Cette épreuve vaut pour 50% de la note finale du module. Les arrondis ainsi que le calcul de la note finale seront imposés par LAGAPEP.
 
 Le barême habituel suivant sera utilisé : (nb. obtenus / nb. max) \* 5 + 1
+
+---
+
+[← Retour au chapitre principal](README.md#ressources-et-suivi) · [⌂ Menu principal](README.md)

@@ -81,3 +81,7 @@ Chaque code appartient à une **famille** identifiée par son premier chiffre :
 |         | 502  | Bad Gateway           | Proxy/gateway a reçu une mauvaise réponse   |
 |         | 503  | Service Unavailable   | Serveur indisponible                        |
 |         | 504  | Gateway Timeout       | Délai dépassé côté serveur intermédiaire    |
+
+---
+
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../README.md)

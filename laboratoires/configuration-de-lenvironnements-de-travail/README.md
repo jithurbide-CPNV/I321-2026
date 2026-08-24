@@ -43,3 +43,7 @@ Lorsque vous avez terminé et publié le travail de la semaine, prévenez votre 
 > Associer votre adresse e-mail à votre compte GitHub.
 >
 > [Ajouter une adresse e-mail à un compte GitHub](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/adding-an-email-address-to-your-github-account)
+
+---
+
+[← Retour au chapitre principal](../../README.md#laboratoires) · [⌂ Menu principal](../../README.md)

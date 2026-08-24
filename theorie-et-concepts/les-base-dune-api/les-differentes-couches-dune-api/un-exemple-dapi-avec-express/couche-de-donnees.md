@@ -89,3 +89,6 @@ module.exports = Product;
 
 ```
 
+---
+
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../../../README.md)

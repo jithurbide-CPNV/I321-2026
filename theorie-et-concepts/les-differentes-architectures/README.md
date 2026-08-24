@@ -63,3 +63,7 @@ Exemple:
 * [https://www.strategyzer.com/library/netflix-is-winding-down-its-dvd-by-mail-service-for-good](https://www.strategyzer.com/library/netflix-is-winding-down-its-dvd-by-mail-service-for-good)
 * [https://features.getmailbird.com/read-receipts/gmail-com](https://features.getmailbird.com/read-receipts/gmail-com)
 * [https://aws.amazon.com/compare/the-difference-between-monolithic-and-microservices-architecture/](https://aws.amazon.com/compare/the-difference-between-monolithic-and-microservices-architecture/)
+
+---
+
+[← Retour au chapitre principal](../README.md) · [⌂ Menu principal](../../README.md)

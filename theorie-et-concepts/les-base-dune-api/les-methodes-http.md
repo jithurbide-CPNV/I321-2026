@@ -91,3 +91,7 @@ Une API REST bien conçue respecte ce principe :
 | **DELETE**  | Supprimer une ressource              | `DELETE /users/42` | Non              | ✅ Oui         | Deux suppressions successives donnent le même état |
 | **HEAD**    | Récupérer uniquement les en-têtes    | `HEAD /users/42`   | Non              | ✅ Oui         | Vérification rapide sans télécharger le corps      |
 | **OPTIONS** | Connaître les méthodes disponibles   | `OPTIONS /users`   | Non              | ✅ Oui         | Utilisé notamment pour le CORS                     |
+
+---
+
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../README.md)

@@ -65,3 +65,7 @@ Ecrire une issue prend du temps. Il ne s'agit pas d'une "poubelle" à problème 
 Voici un échange entre développeur sur la pertinence d'écrire soigneusement une issue. Inspirez-vous en !
 
 [Discussion GitHub sur la rédaction des issues](https://github.com/orgs/community/discussions/147722)
+
+---
+
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../README.md)

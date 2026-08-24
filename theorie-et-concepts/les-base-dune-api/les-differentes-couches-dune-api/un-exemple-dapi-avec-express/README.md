@@ -157,3 +157,7 @@ app.use((err, req, res, next) => {                    //Gestion de l'erreur 500 
 module.exports = app;                                 // Exporte l'application pour pouvoir l'utiliser dans server.js
 
 ```
+
+---
+
+[← Retour au chapitre principal](../README.md) · [⌂ Menu principal](../../../../README.md)

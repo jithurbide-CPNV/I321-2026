@@ -154,3 +154,7 @@ router.delete('/:id', [param('id').isInt().withMessage('id must be an integer')]
 module.exports = router;
 
 ```
+
+---
+
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../../../README.md)
