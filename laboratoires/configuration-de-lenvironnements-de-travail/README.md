@@ -17,7 +17,11 @@ Votre environnement de travail doit disposer des logiciels suivants :
 
 ### Livrable
 
-Un dépôt GitHub ayant le préfixe : `I321-`
+Chaque semaine, vous devez publier dans votre dépôt GitHub le travail réalisé durant la semaine.
+
+Le dépôt doit être nommé `I321-NomPrénom`, sans espace entre le nom et le prénom.
+
+Exemple : `I321-IthurbideJulien`
 
 L'onglet « wiki » contiendra une page du nom de « configuration de l'environnement de travail ».
 
@@ -32,9 +36,7 @@ git version 2.51.0.windows.2
 
 Inviter votre enseignant, avec son adresse e-mail de l'école, à accéder à votre dépôt. Seuls les droits en écriture sont nécessaires ; il n'est pas nécessaire de le rendre administrateur.
 
-Dans le fichier partagé sur Teams, annoncer votre nom d'utilisateur GitHub.
-
-[Accéder au fichier de suivi partagé sur Teams](https://eduvaud.sharepoint.com/:x:/r/sites/CPNV_23-27_SI-C_a_Teams-I321-Programmerdessystmesdistribubs/Documents%20partages/I321%20-%20Programmer%20des%20syst%C3%A8mes%20distribub%C3%A9s/Book.xlsx?d=w2eb225ae3960417dbf39d34f7bc46060&csf=1&web=1&e=P1GXIX)
+Lorsque vous avez terminé et publié le travail de la semaine, prévenez votre enseignant sur Teams.
 
 > **Attention**
 >
