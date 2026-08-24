@@ -1,5 +1,9 @@
 # Configuration de l'environnement de travail
 
+[← Retour au chapitre principal](../../README.md#laboratoires) · [⌂ Menu principal](../../README.md)
+
+---
+
 ## Objectif
 
 Chaque développeur configure et valide le bon fonctionnement de son environnement de travail.

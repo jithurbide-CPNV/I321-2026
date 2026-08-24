@@ -1,5 +1,9 @@
 # Le peer-to-peer et ses particularités
 
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../README.md)
+
+---
+
 Source : [GeekForGeek](https://www.geeksforgeeks.org/system-design/distributed-systems-vs-peer-to-peer-networks/)
 
 

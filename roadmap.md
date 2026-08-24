@@ -4,6 +4,10 @@ description: Le déroulement du module, semaine après semaine, est présenté c
 
 # Roadmap
 
+[← Retour au chapitre principal](README.md#ressources-et-suivi) · [⌂ Menu principal](README.md)
+
+---
+
 | Semaine / Date | Théorie et concepts | Pratique |
 | --- | --- | --- |
 | **SEM 01** — 21.08.2026 | [Accueil](README.md) · [Introduction – Vers les architectures distribuées](theorie-et-concepts/introduction-vers-les-architectures-distribuees.md) | [Configuration de l'environnement de travail](laboratoires/configuration-de-lenvironnements-de-travail/README.md) |

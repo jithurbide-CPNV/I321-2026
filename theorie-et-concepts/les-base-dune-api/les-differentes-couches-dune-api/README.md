@@ -1,5 +1,9 @@
 # Les différentes couches d'une API
 
+[← Retour au chapitre principal](../README.md) · [⌂ Menu principal](../../../README.md)
+
+---
+
 Source : [Understanding the Three Layer of Software Interaction (APIs)](https://www.syncloop.com/blogs/software-interactions-api.html)
 
 ## Introduction

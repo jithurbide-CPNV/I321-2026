@@ -4,6 +4,10 @@ hidden: true
 
 # Evaluations
 
+[← Retour au chapitre principal](README.md#ressources-et-suivi) · [⌂ Menu principal](README.md)
+
+---
+
 ## Evaluation I - Théorique
 
 _Introduction_

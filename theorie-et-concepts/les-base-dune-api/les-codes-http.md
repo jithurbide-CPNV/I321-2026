@@ -1,5 +1,9 @@
 # Les codes HTTP
 
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../README.md)
+
+---
+
 Source :[ MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status)
 
 ## Introduction

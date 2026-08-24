@@ -1,5 +1,9 @@
 # Les différentes architectures
 
+[← Retour au chapitre principal](../README.md) · [⌂ Menu principal](../../README.md)
+
+---
+
 ## Architecture monolithique
 
 * **Description** : L’application est développée et déployée comme un seul bloc. Toute la logique métier, l’interface utilisateur et l’accès aux données sont regroupés dans un même codebase et un même processus.

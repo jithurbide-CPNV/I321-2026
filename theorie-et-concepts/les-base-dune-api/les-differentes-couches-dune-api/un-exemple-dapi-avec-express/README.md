@@ -1,5 +1,9 @@
 # Un exemple d'API avec Express
 
+[← Retour au chapitre principal](../README.md) · [⌂ Menu principal](../../../../README.md)
+
+---
+
 ## Intention
 
 Le framework Express facilite de nombreux aspects du développement, mais comme tout framework, déstabilise un peu le développeur par le nombre de fichier et répertoire à utiliser.

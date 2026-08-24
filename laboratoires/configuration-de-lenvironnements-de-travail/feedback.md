@@ -4,6 +4,10 @@ hidden: true
 
 # Feedback
 
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../README.md)
+
+---
+
 ## Les sources
 
 La "quasi" totalité des informations présentes dans votre document provient de sources externes. Il est essentiel de les mentionner pour appuyer vos dires et ne pas vous approprier du contenu d'un autre développeur.

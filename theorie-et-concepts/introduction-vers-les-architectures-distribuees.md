@@ -1,5 +1,9 @@
 # Introduction - Vers les architectures distribuées
 
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../README.md)
+
+---
+
 ### **Introduction – Vers les architectures distribuées**
 
 Pendant longtemps, les applications étaient **monolithiques** : tout le code, la logique métier, et les données vivaient dans un seul bloc déployé sur un seul serveur. Cette approche fonctionnait bien dans un contexte où :

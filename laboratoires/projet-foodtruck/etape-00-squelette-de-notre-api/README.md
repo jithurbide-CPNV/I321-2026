@@ -1,5 +1,9 @@
 # Etape 00 - Squelette de notre API
 
+[← Retour au chapitre principal](../../../README.md#laboratoires) · [⌂ Menu principal](../../../README.md)
+
+---
+
 ## Intention
 
 Ce laboratoire a pour intention de vous permettre de configurer votre projet (la base de votre code) ainsi que d'affiner la configuration de votre environnement de développement.
