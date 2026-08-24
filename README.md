@@ -1,5 +1,3 @@
-# I321 — Programmer des systèmes distribués
-
 Ce cours présente les concepts essentiels des systèmes distribués et leur mise en pratique au travers d’architectures, d’API et de laboratoires progressifs.
 
 ## Théorie
