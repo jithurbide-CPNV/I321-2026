@@ -1,5 +1,9 @@
 # Définir les routes
 
+[← Retour au chapitre principal](../README.md) · [⌂ Menu principal](../../../../README.md)
+
+---
+
 ## Introduction
 
 Afin de pouvoir gérer, manipuler, modifier notre ressources "pizzas", nous devons disposer de différentes routes.
@@ -59,3 +63,7 @@ Observez cette implémentation et identifiez les éléments à définir.
   }
 ]
 </code></pre></td></tr></tbody></table>
+
+---
+
+[← Retour au chapitre principal](../README.md) · [⌂ Menu principal](../../../../README.md)

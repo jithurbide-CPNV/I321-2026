@@ -1,5 +1,9 @@
 # Etape 01 - Concevoir une ressource
 
+[← Retour au chapitre principal](../../../README.md#laboratoires) · [⌂ Menu principal](../../../README.md)
+
+---
+
 ## Intention
 
 Avant de coder notre première ressource, il est important de modéliser aussi bien les routes que la future base de données.
@@ -21,3 +25,7 @@ Il ne s'agit pas de gérer un système de commande, mais simplement de pouvoir g
 ## Observations
 
 * Seule la pizza du moment affiche un visuel.
+
+---
+
+[← Retour au chapitre principal](../../../README.md#laboratoires) · [⌂ Menu principal](../../../README.md)

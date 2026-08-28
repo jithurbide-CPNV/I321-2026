@@ -1,5 +1,9 @@
 # Conception du modèle de données
 
+[← Retour au chapitre principal](../README.md) · [⌂ Menu principal](../../../../README.md)
+
+---
+
 ## Critères à respecter pour la modélisation
 
 Utilisez bien les normes "Meurise" pour dessiner cette première version du modèle de données.
@@ -24,3 +28,7 @@ Rappel MCD:
 {% hint style="warning" %}
 MCD ET MLD DOIVENT ÈTRE COHERENTS. N'OUBLIEZ PAS DE FAIRE DES ALLERS-RETOURS ENTRE LES DEUX POUR GARANTIR CE CRITERE.
 {% endhint %}
+
+---
+
+[← Retour au chapitre principal](../README.md) · [⌂ Menu principal](../../../../README.md)

@@ -1,5 +1,9 @@
 # Une première séquence
 
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../../README.md)
+
+---
+
 ## Introduction
 
 Maintentant que nous avons [modélisé les routes](definir-les-routes/) ainsi que le [modèle de données](conception-du-modele-de-donnees/) (qui pourront bien entendu évolués ensuite), il est important de définir une première séquence pour bien comprendre la responsabilité de chaque couche.
@@ -29,3 +33,7 @@ ChatGPT est une aide tout à fait intéressante. Faites bien attention de le "pi
 ## Conclusion
 
 L'idée de cette étape est d'avoir une meilleure compréhension de quel composant est responsable de quoi durant une séquence d'appel.
+
+---
+
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../../README.md)

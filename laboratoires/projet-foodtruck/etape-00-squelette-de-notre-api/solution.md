@@ -1,5 +1,9 @@
 # Solution
 
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../../README.md)
+
+---
+
 Voici la structure qui a été discutée en classe et sur laquelle vous pouvez vous baser pour la suite du module.
 
 Cette structure a été produite par essai successif.
@@ -88,3 +92,7 @@ Voici le prompt initial utilisé pour arriver à ce résultat:
 {% hint style="warning" %}
 Tentez l'expérience de votre côté et regarder la différence avec la version proposée ici. Autrement dit, on est loin du résultat, mais l'IA nous donne un bon coup de main pour la structure initiale.
 {% endhint %}
+
+---
+
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../../README.md)
