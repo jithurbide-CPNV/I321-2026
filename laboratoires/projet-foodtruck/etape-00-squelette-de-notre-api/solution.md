@@ -40,7 +40,9 @@ express --no-view my-api
 
 On remarque en lisant la documentation que c'est bien le même générateur de squelette qui est utilisé par JetBrains.
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption><p>Capture de l'IDE WebStorm montrant l'utilisateur du générateur express.</p></figcaption></figure>
+![Configuration d'un projet Express dans WebStorm](<../../../assets/images/image (31).png>)
+
+*Capture de l'IDE WebStorm montrant l'utilisation du générateur Express.*
 
 > **Attention**
 >

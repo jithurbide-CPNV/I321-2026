@@ -40,7 +40,9 @@ Afin de lister les pizzas actuellement proposées, nous avons besoin de réalise
 
 Observez cette implémentation et identifiez les éléments à définir.
 
-<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Exemple de documentation produit par Swagger (nous le mettrons en place prochainement)</p></figcaption></figure>
+![Documentation Swagger de la route GET /pizzas](<../../../../assets/images/image (13).png>)
+
+*Exemple de documentation produite par Swagger (nous le mettrons en place prochainement).*
 
 ### Structure de l'appel
 

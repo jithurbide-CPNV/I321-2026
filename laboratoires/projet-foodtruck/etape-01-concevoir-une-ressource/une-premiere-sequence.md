@@ -12,7 +12,7 @@ Maintentant que nous avons [modélisé les routes](definir-les-routes/) ainsi qu
 
 En partant de votre code actuel, essayez de produire une séquence telle que celle-ci:
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+![Diagramme de séquence de création d'un produit](<../../../assets/images/image (6).png>)
 
 ### TODO
 

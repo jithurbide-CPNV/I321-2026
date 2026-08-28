@@ -18,7 +18,7 @@ En vous basant sur cette image, déduisez les différentes routes ainsi que le m
 >
 > Il ne s'agit pas de gérer un système de commande, mais simplement de pouvoir gérer la carte des mets ! C'est une fonctionnalité que seul le pizzaïolo aura à disposition.
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+![Exemple de carte des pizzas](<../../../assets/images/image (14).png>)
 
 
 
