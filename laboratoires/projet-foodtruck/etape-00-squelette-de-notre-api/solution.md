@@ -18,9 +18,9 @@ Le générateur de squelette mis à disposition par Express a été exploité. C
 npm install -g express-generator
 ```
 
-{% hint style="warning" %}
-La commande standard génère un squelette qui n'est pas spécifique pour une API, mais à une application complète avec une structure MVC contenant des vues.
-{% endhint %}
+> **Attention**
+>
+> La commande standard génère un squelette qui n'est pas spécifique pour une API, mais à une application complète avec une structure MVC contenant des vues.
 
 #### Première correction
 
@@ -30,9 +30,9 @@ La commande standard génère un squelette qui n'est pas spécifique pour une AP
 express --no-view my-api
 ```
 
-{% hint style="warning" %}
-La structure est intéressante mais ne répond que très partiellement aux critères à respecter. L'effort de correction est d'ajout est trop important.
-{% endhint %}
+> **Attention**
+>
+> La structure est intéressante mais ne répond que très partiellement aux critères à respecter. L'effort de correction est d'ajout est trop important.
 
 ## Utilisation des outils intégrés à l'IDE
 
@@ -42,9 +42,9 @@ On remarque en lisant la documentation que c'est bien le même générateur de s
 
 <figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption><p>Capture de l'IDE WebStorm montrant l'utilisateur du générateur express.</p></figcaption></figure>
 
-{% hint style="warning" %}
-On y apprend également que WebStrom nous permet de configurer soit un interpréteur node global (pour tous nos projets) ou alors une version projet.
-{% endhint %}
+> **Attention**
+>
+> On y apprend également que WebStrom nous permet de configurer soit un interpréteur node global (pour tous nos projets) ou alors une version projet.
 
 La configuration est amplement simplifiée et même si le code n'a pas la qualité requise, j'ai bien utilisé l'IDE pour arriver à un premier résultat.
 
@@ -52,7 +52,6 @@ La configuration est amplement simplifiée et même si le code n'a pas la qualit
 
 Un outil puissant pour parvenir à nos fins est ChatGPT. Mais attention, nous allons devoir nous y reprendre à plusieurs fois pour construire cette structure qui répond à tous les critères à suivre:
 
-{% code fullWidth="true" %}
 ```json
 MyAPI
 │   .env                                //externalisation des variables d'environnements
@@ -83,15 +82,14 @@ MyAPI
 └───routes                             //couche logique permettant le routage des requêtes
         users.js                       //chaque ressource disposera de son propre routage
 ```
-{% endcode %}
 
 Voici le prompt initial utilisé pour arriver à ce résultat:
 
 > “Could you help me find the correct command to create a new Express project designed to be an API (without view rendering)? I tried using express-generator, but I wasn’t successful.”
 
-{% hint style="warning" %}
-Tentez l'expérience de votre côté et regarder la différence avec la version proposée ici. Autrement dit, on est loin du résultat, mais l'IA nous donne un bon coup de main pour la structure initiale.
-{% endhint %}
+> **Attention**
+>
+> Tentez l'expérience de votre côté et regarder la différence avec la version proposée ici. Autrement dit, on est loin du résultat, mais l'IA nous donne un bon coup de main pour la structure initiale.
 
 ---
 

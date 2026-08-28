@@ -25,9 +25,9 @@ Rappel MCD:
     * [ ] qu'une association 1 à N induit une clé étrangère sur l'une des tables.&#x20;
 * [ ] Les types de données se précisent. Attention, cela reste des types génériques et non spécifiques à un langage particulier.
 
-{% hint style="warning" %}
-MCD ET MLD DOIVENT ÈTRE COHERENTS. N'OUBLIEZ PAS DE FAIRE DES ALLERS-RETOURS ENTRE LES DEUX POUR GARANTIR CE CRITERE.
-{% endhint %}
+> **Attention**
+>
+> MCD ET MLD DOIVENT ÈTRE COHERENTS. N'OUBLIEZ PAS DE FAIRE DES ALLERS-RETOURS ENTRE LES DEUX POUR GARANTIR CE CRITERE.
 
 ---
 

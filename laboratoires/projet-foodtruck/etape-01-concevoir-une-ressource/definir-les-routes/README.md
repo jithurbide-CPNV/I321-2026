@@ -28,9 +28,9 @@ Pour l'instant, nous ne traiterons pas le cas "Définir une pizza comment étant
 
 En étudiant cette capture d'écran, vous pouvez identifier les éléments clés à définir pour ensuite développer une route adaptée à notre besoin.
 
-{% hint style="warning" %}
-Faites le lien avec le besoin métier ci-dessous
-{% endhint %}
+> **Attention**
+>
+> Faites le lien avec le besoin métier ci-dessous.
 
 ## Exemple de définition de route - Lister les pizzas
 

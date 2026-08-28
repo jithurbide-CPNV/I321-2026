@@ -18,15 +18,15 @@ En partant de votre code actuel, essayez de produire une séquence telle que cel
 
 * [ ] Ajouter le plugin "[plantuml](https://plugins.jetbrains.com/plugin/7017-plantuml4idea)" à votre environnement de développement
 
-{% embed url="https://plugins.jetbrains.com/plugin/7017-plantuml4idea" %}
+[Documentation du plugin PlantUML pour IntelliJ](https://plugins.jetbrains.com/plugin/7017-plantuml4idea)
 
 * [ ] Aidez-vous de la documentation pour produire votre séquence
 
-{% embed url="https://plantuml.com/sequence-diagram" %}
+[Documentation des diagrammes de séquence PlantUML](https://plantuml.com/sequence-diagram)
 
-{% hint style="warning" %}
-ChatGPT est une aide tout à fait intéressante. Faites bien attention de le "piloter" et de bien lui demander de respecter les bonnes pratiques en terme d'API (verbe http, code de retour).
-{% endhint %}
+> **Attention**
+>
+> ChatGPT est une aide tout à fait intéressante. Faites bien attention de le "piloter" et de bien lui demander de respecter les bonnes pratiques en terme d'API (verbe http, code de retour).
 
 * [ ] Identifiez les différences avec votre propre conception
 
