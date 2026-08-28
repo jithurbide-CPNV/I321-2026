@@ -22,6 +22,11 @@ Ce cours présente les concepts essentiels des systèmes distribués et leur mis
   - [Feedback](laboratoires/configuration-de-lenvironnements-de-travail/feedback.md)
 - Projet Foodtruck
   - [Étape 00 – Squelette de notre API](laboratoires/projet-foodtruck/etape-00-squelette-de-notre-api/README.md)
+    - [Solution](laboratoires/projet-foodtruck/etape-00-squelette-de-notre-api/solution.md)
+  - [Étape 01 – Concevoir une ressource](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/README.md)
+    - [Définir les routes](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/definir-les-routes/README.md)
+    - [Conception du modèle de données](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/conception-du-modele-de-donnees/README.md)
+    - [Une première séquence](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/une-premiere-sequence.md)
 
 ## Ressources et Suivi
 
