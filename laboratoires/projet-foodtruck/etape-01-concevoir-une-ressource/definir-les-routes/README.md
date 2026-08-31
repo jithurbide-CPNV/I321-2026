@@ -46,12 +46,24 @@ Observez cette implémentation et identifiez les éléments à définir.
 
 ### Structure de l'appel
 
-<table><thead><tr><th>Critères</th><th>Valeur</th></tr></thead><tbody><tr><td>Verbe HTTP</td><td>GET</td></tr><tr><td>Chemin</td><td><pre><code>/pizzas
-</code></pre></td></tr><tr><td>Paramètres</td><td>Aucun</td></tr></tbody></table>
+| Critères | Valeur |
+| --- | --- |
+| Verbe HTTP | `GET` |
+| Chemin | `/pizzas` |
+| Paramètres | Aucun |
 
 ### Structure de la réponse "Successfull"
 
-<table><thead><tr><th>Critères</th><th>Valeur</th></tr></thead><tbody><tr><td>Code</td><td>200</td></tr><tr><td>Description</td><td>List of pizzas</td></tr><tr><td>Media type</td><td>JSON</td></tr><tr><td>Exemple value : Schema</td><td><pre class="language-json"><code class="lang-json">[
+| Critères | Valeur |
+| --- | --- |
+| Code | `200` |
+| Description | Liste des pizzas |
+| Type de média | `application/json` |
+
+#### Exemple de réponse
+
+```json
+[
   {
     "id": 1,
     "title": "Margherita",
@@ -64,7 +76,7 @@ Observez cette implémentation et identifiez les éléments à définir.
     "price": 8.5
   }
 ]
-</code></pre></td></tr></tbody></table>
+```
 
 ---
 

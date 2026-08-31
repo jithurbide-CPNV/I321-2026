@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Evaluations
 
 [← Retour au chapitre principal](README.md#ressources-et-suivi) · [⌂ Menu principal](README.md)

@@ -6,7 +6,7 @@
 
 ## Critères à respecter pour la modélisation
 
-Utilisez bien les normes "Meurise" pour dessiner cette première version du modèle de données.
+Utilisez bien les normes Merise pour dessiner cette première version du modèle de données.
 
 Rappel MCD:
 
@@ -20,9 +20,9 @@ Rappel MCD:
 * [ ] Doit être cohérent avec le MCD.
 * [ ] Les entités deviennent des tables, également au pluriel.
 * [ ] Les associations deviennent des relations.
-  * [ ] C'est à cette étape&#x20;
+  * [ ] C'est à cette étape
     * [ ] qu'une association N à N requiert une table intermédiaire.
-    * [ ] qu'une association 1 à N induit une clé étrangère sur l'une des tables.&#x20;
+    * [ ] qu'une association 1 à N induit une clé étrangère sur l'une des tables.
 * [ ] Les types de données se précisent. Attention, cela reste des types génériques et non spécifiques à un langage particulier.
 
 > **Attention**
