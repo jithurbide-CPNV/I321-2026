@@ -10,16 +10,32 @@ A cette étape du projet, nous cherchons à modéliser les pizzas présentes sur
 
 ## Modèle conceptuel de données
 
-![Modèle conceptuel de données des pizzas et des ingrédients](<../../../../assets/images/image (30).png>)
+```mermaid
+erDiagram
+    PIZZAS }|--o{ INGREDIENTS : contient
+
+    PIZZAS {
+        text name "Identifiant naturel"
+        text image "Optionnel"
+        number price
+    }
+
+    INGREDIENTS {
+        text name "Identifiant naturel"
+        number price
+    }
+```
+
+<script type="module" src="../../../../assets/js/mermaid-loader.js"></script>
 
 ### Explications complémentaires
 
 | Valeur | Explications |
 | --- | --- |
-| `__xxx___` | Identifiant naturel. |
+| `name` | Identifiant naturel. |
 | _italique_ | Attribut optionnel. |
-| `Ingredient "0..*"` | Une pizza peut n'avoir aucun ou avoir plusieurs ingrédients. La pizza de base est une Margherita avec de la sauce tomate et de la mozzarella. |
-| `Ingredient "0..*"` | Chaque ingrédient peut être présent sur une ou plusieurs pizzas. Les identifiants naturels sont indiqués ainsi : ***name***. |
+| `Pizzas (1, N)` | Chaque ingrédient est présent sur une ou plusieurs pizzas. |
+| `Ingrédients (0, N)` | Une pizza peut n'avoir aucun ou avoir plusieurs ingrédients. La pizza de base est une Margherita avec de la sauce tomate et de la mozzarella. |
 
 ## Modèle logique de données
 
