@@ -7,7 +7,6 @@
 ## Contenu
 
 - [Modifier l'arborescence des fichiers](modifier-larborescence-des-fichiers-la-structure/README.md)
-  - [Solution](modifier-larborescence-des-fichiers-la-structure/solution.md)
 - [Développer la ressource « Ingrédients »](developper-la-ressource-ingredients.md)
 
 ---

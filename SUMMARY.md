@@ -33,7 +33,6 @@
       * [Développer la ressource "Pizzas"](laboratoires/projet-foodtruck/etape-02-coder-une-ressource-pizzas/developper-la-ressource-pizzas.md)
     * [Etape 03 - Coder une seconde ressource (Ingredients)](laboratoires/projet-foodtruck/etape-03-coder-une-seconde-ressource-ingredients/README.md)
       * [Modifier l'arborescence des fichiers (la structure)](laboratoires/projet-foodtruck/etape-03-coder-une-seconde-ressource-ingredients/modifier-larborescence-des-fichiers-la-structure/README.md)
-        * [Solution](laboratoires/projet-foodtruck/etape-03-coder-une-seconde-ressource-ingredients/modifier-larborescence-des-fichiers-la-structure/solution.md)
       * [Développer la ressource "Ingredients"](laboratoires/projet-foodtruck/etape-03-coder-une-seconde-ressource-ingredients/developper-la-ressource-ingredients.md)
     * [Etape 04 - Lier deux ressources (Pizzas et Ingredients)](laboratoires/projet-foodtruck/etape-04-lier-deux-ressources-pizzas-et-ingredients/README.md)
       * [Modélisation](laboratoires/projet-foodtruck/etape-04-lier-deux-ressources-pizzas-et-ingredients/modelisation/README.md)
