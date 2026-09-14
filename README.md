@@ -35,7 +35,10 @@ Ce cours présente les concepts essentiels des systèmes distribués et leur mis
     - [Développer la ressource « Pizzas »](laboratoires/projet-foodtruck/etape-02-coder-une-ressource-pizzas/developper-la-ressource-pizzas.md)
   - [Étape 03 – Coder une seconde ressource (Ingrédients)](laboratoires/projet-foodtruck/etape-03-coder-une-seconde-ressource-ingredients/README.md)
     - [Modifier l'arborescence des fichiers](laboratoires/projet-foodtruck/etape-03-coder-une-seconde-ressource-ingredients/modifier-larborescence-des-fichiers-la-structure/README.md)
+      - [Solution](laboratoires/projet-foodtruck/etape-03-coder-une-seconde-ressource-ingredients/modifier-larborescence-des-fichiers-la-structure/solution.md)
     - [Développer la ressource « Ingrédients »](laboratoires/projet-foodtruck/etape-03-coder-une-seconde-ressource-ingredients/developper-la-ressource-ingredients.md)
+  - [Étape 04 – Lier deux ressources (Pizzas et Ingrédients)](laboratoires/projet-foodtruck/etape-04-lier-deux-ressources-pizzas-et-ingredients/README.md)
+    - [Modélisation](laboratoires/projet-foodtruck/etape-04-lier-deux-ressources-pizzas-et-ingredients/modelisation/README.md)
 
 ## Ressources et Suivi
 

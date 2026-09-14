@@ -66,6 +66,10 @@ Voici la structure actuelle:
             router.js
 ```
 
+## Solution
+
+- [Consulter la solution](solution.md)
+
 ---
 
 [← Retour au chapitre principal](../README.md) · [⌂ Menu principal](../../../../README.md)
