@@ -27,9 +27,9 @@ Dans ce laboratoire, vous devez réaliser les tâches suivantes:
   * [ ] Dialogue entre les ressources
     * [ ] Se fait via les contrôleurs respectifs. Le contrôleur "Pizzas" n'accédent pas en direct à l'entité "Ingredients".
 
-{% hint style="warning" %}
-Le tout avec Plant UML
-{% endhint %}
+> **Attention**
+>
+> Le tout avec Plant UML
 
 ---
 
