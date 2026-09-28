@@ -6,7 +6,7 @@
 
 ## Intention
 
-Dans les [etape02](../../etape-02-coder-une-ressource-pizzas/) et [etape03](../../etape-03-coder-une-seconde-ressource-ingredients/) nous avons développé 2 ressources indépendantes les unes des autres.
+Dans les [étapes 02](../../etape-02-coder-une-ressource-pizzas/README.md) et [03](../../etape-03-coder-une-seconde-ressource-ingredients/README.md), nous avons développé deux ressources indépendantes l'une de l'autre.
 
 Il est venu temps de créer la relation entre elles.
 
@@ -17,7 +17,7 @@ Cette étape va nous permettre de modéliser correctement le fait qu'une pizza c
 Dans ce laboratoire, vous devez réaliser les tâches suivantes:
 
 * [ ] Dessinez le diagramme de classes intégrant les deux ressources
-* [ ] Dessinez le modèle logique de données intégrant les deux ressources&#x20;
+* [ ] Dessinez le modèle logique de données intégrant les deux ressources
 * [ ] Dessinez la séquence de création d'une pizza.
   * [ ] Critères d'acceptance
     * [ ] Une exception sera levée si
@@ -30,6 +30,10 @@ Dans ce laboratoire, vous devez réaliser les tâches suivantes:
 > **Attention**
 >
 > Le tout avec Plant UML
+
+## Solution
+
+[Consulter la proposition de solution](solution.md).
 
 ---
 

@@ -1,8 +1,8 @@
----
-published: false
----
-
 # Solution
+
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../../../README.md)
+
+---
 
 ## Diagramme de classes
 
@@ -44,3 +44,7 @@ Comment récupérer une pizza
 Lien avec la base de données
 
 ![Lien avec la base de données](<../../../../assets/images/image (1).png>)
+
+---
+
+[← Retour au chapitre principal](README.md) · [⌂ Menu principal](../../../../README.md)
